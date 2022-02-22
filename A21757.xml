@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. Whereas certayne obstinate and irrepentant traytours, after theyr notorious rebellions made against this theyr naturall countrey, haue fledde out of the same, and haue remayned in forraigne partes ...</title>
+            <title>Proclamations. 1573-09-28</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1573</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21757</idno>
+            <idno type="STC">STC 8064</idno>
+            <idno type="STC">ESTC S112043</idno>
+            <idno type="EEBO-CITATION">99847302</idno>
+            <idno type="PROQUEST">99847302</idno>
+            <idno type="VID">12332</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21757)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 12332)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 456:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. Whereas certayne obstinate and irrepentant traytours, after theyr notorious rebellions made against this theyr naturall countrey, haue fledde out of the same, and haue remayned in forraigne partes ...</title>
+                  <title>Proclamations. 1573-09-28</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+               </titleStmt>
+               <extent>2 leaves   </extent>
+               <publicationStmt>
+                  <publisher>By Nevvgate market, next vnto Christes Churche, By Richarde Iugge, printer to the Queenes Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1573]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from STC.</note>
+                  <note>Ordering the destruction of seditious and libellous books--STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prohibited books --  England --  Early works to 1800.</term>
+               <term>Censorship --  England --  Early works to 1800.</term>
+               <term>Sedition --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:12332:1"/>
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas certayne obſtinate and irrepentant traytours, after theyr notorious rebellions made againſt this theyr naturall countrey, haue fledde out of the ſame, and haue remayned in forraigne partes, with a continual &amp; wylful de<g ref="char:EOLhyphen"/>termination (as it appeareth) to contriue al the miſcheefe that they can ima<g ref="char:EOLhyphen"/>gine, to impeache and ſubuerte the vniuerſall quietneſſe and peace of this Realme, whereof they do behold with deadly enuie this theyr natural coun<g ref="char:EOLhyphen"/>trey, by Gods ſpeciall grace directyng her Maieſtie in her gouernment, to haue ben of long tyme moſte comfortably poſſeſſed, both inwardly at home, and with al outwarde countreyes next adioynyng: and that nowe ſynce they haue waſted theyr whole tyme for the proſecutyng of theyr rooted malice, by congregatyng themſelues to<g ref="char:EOLhyphen"/>gether in routes, with ſhewes of conuenticles, and of forces, (wherin they haue condemned and deſpiſed ſuch of their former companions, as haue duetifully ſought for mercy for their offences) and by combination with others of this countrey byrth, of lyke diſpoſition, beyng founde as perſons vagarant and wylful fugitiues, they haue ſought by and with them to excite by al kinde of ſiniſter meanes, diuers eſtates and gouernours a<g ref="char:EOLhyphen"/>broade, to miſlyke, and to enter into enimitie agaynſt the Queenes Maieſtie, her Realme, and people: and that notwithſtandyng theſe theyr labours and practiſes, they ſee that neyther they haue nor coulde preuaile as they deſyred, by reaſon of the great wyſdome, honour, and graue conſyderation of the ſayde perſons of eſtate, whom they haue muche troubled and annoyed with theyr importunate ſuites and clamours, and ſpe<g ref="char:EOLhyphen"/>cially with theyr falſe, malitious, and traiterous ſuggeſtions, and calumniations againſt the Queenes Ma<g ref="char:EOLhyphen"/>ieſtie, her gouernment, and this Realme: Therefore at the laſt beyng deſperate of thoſe theyr former tra<g ref="char:EOLhyphen"/>uayles and practiſes, and fyndyng her Maieſties amitie is had in good eſtimation with other the greate prynces and eſtates her neyghbours, and the amitie alſo of the ſame princes reciprocquely imbraced by her Maieſtie, to the honour and benefite both of her Maieſtie, and her alies and confederates, and their coun<g ref="char:EOLhyphen"/>treyes and ſubiectes, they are fallen into another crooked courſe of malitious perſecutyng the happy eſtate of this countrey and gouernment, by chooſyng out of certayne ſhameleſſe, ſpiteful, and furious braynes, ha<g ref="char:EOLhyphen"/>uyng a trade in pennyng of infamous libelles, not only in the Engliſhe, but alſo in Latine, &amp; other ſtrange languages. And by theſe meanes they haue lately cauſed certayne ſeditious bookes and libelles to be compi<g ref="char:EOLhyphen"/>led, and printed in diuers languages, wherein theyr final intention appeareth to be to blaſpheme, and as it were to accurſe theyr natiue countrey, with al manner of reprocheful tearmes, agaynſt the peaceable go<g ref="char:EOLhyphen"/>uernment thereof, condemnyng generally the whole pollicie of the preſent eſtate, as hauing no religion, nor pietie, nor iuſtice, nor order, no good miniſters at al, either for diuine or humane cauſes: &amp; yet to abuſe ſuch as are ſtrangers to the ſtate, they haue gloſed ſome of theyr late libelled bookes with argumentes of diſcoueries of treaſons, intended, as they do craftily alleage, by ſome ſpecial perſons beyng counſaylers, agaynſt her Maieſtie, and the ſtate of this crowne and Realme, with reprocheful tearmes of moſt notorious falſe aſ<g ref="char:EOLhyphen"/>ſertions and allegations: bendyng theyr mallice moſte ſpecially agaynſt two, who be certaynely knowen to haue alwayes ben moſte ſtudiouſly and faythfully careful of her Maieſties proſperous eſtate, and vertuous gouernment, employing therto al theyr cares, trauayles, diligence, and watchyng, with the manifeſt loſſe and hynderaunce of theyr owne health, that no treaſon myght approche to hurte her hyghneſſe, nor trayte<g ref="char:EOLhyphen"/>rous malice to diſturbe the quiet of her proſperous raigne. Theſe cheefely, beſyde theyr general reproouing of al other, hauyng charge in this gouernment, they ſtudie by theyr venemous and lying bookes, to haue ſpe<g ref="char:EOLhyphen"/>cially myſlyked of her Maieſtie, contrary to theyr manyfolde deſertes, ſo approoued by long and manifeſt ex<g ref="char:EOLhyphen"/>perience, whiche both her Maieſtie, and al the reſt of her good counſaylours and nobilitie, with other the ſtates of the Realme, haue had, and dayly haue of the very ſame counſaylours, who alſo are the more to be allowed of her Maieſtie, in that ſhe ſeeth, and of her owne meere knowledge truely vnderſtandeth, that al the perticuler matters wherewith the ſayde libellers labour to charge the ſayd counſaylours, as offences, be vt<g ref="char:EOLhyphen"/>terly improbable &amp; falſe, as in like maner generally, al others her Maieſties counſellours, miniſters, and ſub<g ref="char:EOLhyphen"/>iectes of vnderſtandyng, in euery degree, do repute, accept, &amp; know the ſame to be: ſo as both of her Maieſtie, &amp; of al other her good counſaylers and noble men, this theyr attempt is vnderſtanded to be the worke of canck<g ref="char:EOLhyphen"/>red enuie and malice, and the accuſtomed wont of ſuche men as be poſſeſſed with thoſe ſpirites, when they
+<pb facs="tcp:12332:2"/> can not, ne dare not openly aſſayle her princely Maieſtie by force or open doynges, then to goe about to pull from her Maieſtie her faythful and truſtie counſaylours, by falſe calumnies, or with faigned and ſurmiſed tales, to make variance, yf they coulde, gelouſie, and diſcorde amonges her highneſſe counſaylours, who hy<g ref="char:EOLhyphen"/>therto with muche concorde and good agreement, haue, as it is wel ſeene, ſerued proſperouſly her hyghneſſe. And therefore her Maieſtie hauyng regarde to be thankeful to almyghtie God for his bleſſyng of her with his protection in her gouernment theſe many yeeres, and for that cauſe myſlykyng to ſuffer the ſame to be in this ſorte by ſuche infamous libelles obſcured, defamed, and blaſphemed, eyther preſently, or in time to come, by the ſecrete diſpearſyng of the ſame bookes and libelles, eyther within her Realme, or abroade in forraigne language: and in lyke manner, beyng vnwyllyng to haue ſuche as be her wel tryed and approoued faythful ſeruauntes and counſaylours to be thereby taxed, altogeather with manyfeſt vntruethes impudently vtte<g ref="char:EOLhyphen"/>red, to the diſhonour of her Maieſtie, to whom they are counſailours: hath therfore thought neceſſary, and ſo by aduice of others of her counſayle and nobilitie, whoſe reputation is alſo moſte certainely taxed by the ſaid manyfeſt ſlaunders and vntruethes, ſhe willeth that by this her Maieſties publique declaration, it be know<g ref="char:EOLhyphen"/>en, that the ſayde bookes and libelles be of her Maieſtie, and of her counſayle, eſteemed, iudged, and condem<g ref="char:EOLhyphen"/>ned, to be the workes of deſpiſers of Gods true religion, of obſtinate traytours againſt her Maieſties perſon, eſtate, and dignitie, &amp; of vnnatural and malignant enuiers of the common good tranquilitie of her Realme, who the more to abuſe ſome ſympler ſort of people, do delyuer a ſhewe of certayne thynges pretended for the ſafetie of her Maieſties perſon and eſtate, the ſame beyng in deede moſte manyfeſt and direct practiſes to ruine her perſon, and to ouerthrowe her eſtate: And therewith chargeth al manner of perſons, to deſpiſe, re<g ref="char:EOLhyphen"/>iect, and deſtroy ſuche bookes and libelles, whenſoeuer they ſhal come to theyr handes, for the malitious ſlaunders and vntruethes conteyned in them, and that no man wyllyngly do bryng into this Realme, diſ<g ref="char:EOLhyphen"/>pearſe, diſpoſe, or delyuer to any other, or keepe any of the ſayde bookes or libelles without deſtroying, excepte the ſame perſon be one of her Maieſties priuie counſayle, or otherwyſe for reaſonable reſpectes, be duely li<g ref="char:EOLhyphen"/>cenſed to haue the ſame to peruſe, and to reprooue, accordyng to the qualitie thereof, vpon payne to be by any publique officer, who may haue notice thereof, apprehended, and thereupon to be puniſhed as ſowers of ſe<g ref="char:EOLhyphen"/>dition, and abbettours to the treaſons vttered in the ſame <hi>.xxviij. die Septembr. 1573.</hi>
+            </p>
+            <closer>God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Nevvgate <hi>market, next vnto Christes Churche, by Richarde Iugge, Printer</hi> to the Queenes Maieſtie.</p>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>¶ Cum priuilegio Regiae Maieſtatis.</p>
+                  </body>
+               </floatingText>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
